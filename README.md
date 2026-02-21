@@ -6,7 +6,7 @@ Aplicación móvil desarrollada en Flutter con Empty (proyecto vacío).
 - Archivo creado con Flutter Empty.
 - Compilación APK realizada.
 - Ejecutado en Emulador de Android 
-## paso 
+## Pasos 
 1. Se creo el Archivo del ejemplo 2
 2. Se creó el proyecto Flutter con plantilla Empty.
 3. Se ejecutó la aplicación en el emulador.
