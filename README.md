@@ -1,11 +1,11 @@
-# Proyecto Flutter ejemplo # 2 — Daniela Campo Rivera
+# Aplicación Flutter Ejemplo 2
 
-Aplicación móvil desarrollada en Flutter con Empty (proyecto vacío).
+## Descripción
+Aplicación desarrollada en Flutter ejemplo # 2 Empty (proyecto vacío).
 
-## Funcionalidades
-- Archivo creado con Flutter Empty.
-- Compilación APK realizada.
-- Ejecutado en Emulador de Android 
+## Funcionalidad
+La aplicación muestra la interfaz vacia de  un proyecto, generada por Flutter y fue ejecutada en el simulador de Android.
+
 ## Pasos 
 1. Se creo el Archivo del ejemplo 2
 2. Se creó el proyecto Flutter con plantilla Empty.
